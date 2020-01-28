@@ -2,8 +2,8 @@ project_name: "kitchensink"
 
 application: kitchensink {
   label: "Kitchen sink"
-  file: "bundle.js"
-  # url: "http://localhost:8080/bundle.js"
+  # file: "bundle.js"
+  url: "http://localhost:8080/bundle.js"
 #  entitlements: {
 #    local_storage: yes
 #    navigation: yes
