@@ -9,6 +9,6 @@ application: kitchensink {
     local_storage: yes
     navigation: yes
     new_window: yes
-    core_api_methods: ["app_connections"]
+    core_api_methods: ["run_inline_query", "search_folders", "all_connections"]
   }
 }
