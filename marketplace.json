@@ -1,0 +1,8 @@
+{
+  "label": "Kitchensink",
+  "category_label": "Extensions",
+  "branding": {
+    "image_uri": "https://marketplace-api.looker.com/extension-screenshots/kitchensink.png",
+    "tagline": "Everything and the kitchensink."
+  }
+}
