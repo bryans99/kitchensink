@@ -6,9 +6,9 @@ application: kitchensink {
   url: "http://localhost:8080/bundle.js"
   # url: "https://develop.open.extension.looker.com:8080/bundle.js"
   entitlements: {
-    local_storage: yes
-    navigation: yes
-    new_window: yes
-    core_api_methods: ["run_inline_query", "search_folders", "all_connections"]
+    local_storage: no
+    navigation: no
+    new_window: no
+    core_api_methods: []
   }
 }
