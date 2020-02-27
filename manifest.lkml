@@ -14,6 +14,6 @@ application: kitchensink-demo {
 }
 
 constant: CONNECTION_NAME {
-  value: "connection-name"
+  value: "choose-connection"
   export: override_required
 }
