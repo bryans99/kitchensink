@@ -4,5 +4,17 @@
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/extension-screenshots/kitchensink.png",
     "tagline": "Everything and the kitchensink."
-  }
+  },
+  "constants": {
+    "CONNECTION_NAME": {
+      "label": "Connection Name",
+      "value_constraint": "connection"
+    }
+  },
+  "models": [
+    {
+      "name": "kitchensink-demo",
+      "connection_constant": "CONNECTION_NAME"
+    }
+  ]
 }
