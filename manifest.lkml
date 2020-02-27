@@ -1,4 +1,4 @@
-project_name: "kitchensink"
+project_name: "extension_kitchensink"
 
 application: kitchensink {
   label: "Kitchen sink"
