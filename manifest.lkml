@@ -12,3 +12,8 @@ application: kitchensink-demo {
     core_api_methods: []
   }
 }
+
+constant: CONNECTION_NAME {
+  value: "connection-name"
+  export: override_required
+}
