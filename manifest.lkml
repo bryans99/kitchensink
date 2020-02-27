@@ -1,4 +1,4 @@
-project_name: "extension-kitchensink"
+project_name: "marketplace_extension_kitchensink"
 
 application: kitchensink {
   label: "Kitchen sink"
