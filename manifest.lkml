@@ -1,6 +1,6 @@
 project_name: "kitchensink-demo"
 
-#application: kitchensink-demo {
+application: kitchensink-demo {
   #label: "Kitchen sink demo"
   #file: "bundle.js"
   #url: "http://localhost:8080/bundle.js"
@@ -11,7 +11,7 @@ project_name: "kitchensink-demo"
     new_window: no
     core_api_methods: []
   }
-#}
+}
 
 constant: CONNECTION_NAME {
   value: "choose-connection"
